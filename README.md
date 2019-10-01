@@ -1,5 +1,5 @@
 # TrumpDump
-A recurrent neural network built to tweet in the style of @realDonaldTrump
+A machine learning application built to tweet in the style of @realDonaldTrump
 
 
 Trump Tweets dataset: 
